@@ -16,8 +16,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="475" />
-    <option name="y" value="566" />
+    <option name="x" value="400" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="767" />
   </component>
@@ -76,7 +76,29 @@
               <item name="DWGreetings" type="b2602c69:ProjectViewProjectNode" />
               <item name="DWGreetings" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DWGreetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DWGreetings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DWGreetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DWGreetings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DWGreetings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DWGreetings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dwgreetings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +219,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="566" width="1400" height="767" extended-state="0" />
+    <frame x="400" y="23" width="1400" height="767" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
